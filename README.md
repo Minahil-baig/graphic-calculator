@@ -1,2 +1,2 @@
 # graphic-calculator
-# This is Streamlit calculator developed bt Minahil Baig.
+This is Streamlit calculator developed bt Minahil Baig.
